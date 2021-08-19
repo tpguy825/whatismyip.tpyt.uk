@@ -1,9 +1,11 @@
 <!DOCTYPE html>
+
 <?php
 
 $ip = $_SERVER['REMOTE_ADDR'];
 
 ?>
+
 <html lang='en'>
     <head>
         <meta charset="utf-8">
