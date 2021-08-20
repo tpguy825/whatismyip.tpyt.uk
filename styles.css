@@ -1,7 +1,12 @@
 .ip {
-
     box-align: 'center';
     font-family: 'Roboto', sans-serif;
-    
+}
 
+ip-box {
+  width: 90%;
+  border: 5px solid black;
+  padding: 50px;
+  margin: 20px;
+  background: grey;
 }
